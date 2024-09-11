@@ -38,7 +38,6 @@
             <li><strong>"De Scriptoribus Ecclesiasticis":</strong> En esta obra, Tritheim elaboró una lista de escritores eclesiásticos que influyeron en la tradición cristiana, proporcionando una valiosa fuente de información sobre autores y obras religiosas.</li>
             <li><strong>Innovaciones en la Bibliotecología:</strong> Tritheim fue un pionero en la sistematización y organización de bibliotecas, y sus métodos fueron influyentes en la forma en que se gestionaban las colecciones de libros en los monasterios y universidades.</li>
         </ul>
-
         <h2>Referencia</h2>
         <p class="reference">Fitzgerald, K. (2007). <em>Trithemius and the role of the librarian in early modern Europe</em>. In <em>The Library Quarterly</em>, 77(2), 145-160. https://doi.org/10.1086/511468</p>
     </div>
