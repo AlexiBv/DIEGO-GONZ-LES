@@ -32,7 +32,6 @@
         <p><strong>Fecha de Muerte:</strong> 13 de diciembre de 1516</p>
         <p><strong>Lugar de Muerte:</strong> Sponheim, Alemania</p>
         <p><strong>Orden Religiosa:</strong> Benedicto</p>
-        
         <h2>Principales Aportaciones</h2>
         <ul>
             <li><strong>Bibliografía y Catalogación:</strong> Tritheim es conocido por su trabajo en la catalogación de libros y la gestión de bibliotecas. Su obra más destacada en este ámbito es el "Catalogus" (o "Catalogus bibliothecae"), un catálogo de libros que abarcaba la biblioteca de su monasterio y proporcionaba un modelo para el manejo de colecciones bibliográficas en la época.</li>
